@@ -8,17 +8,17 @@ Aplikasi cuaca sederhana yang dibuat menggunakan **Express.js**, dan **OpenWeath
 * Menampilkan suhu, kelembapan, kecepatan angin, dan kondisi cuaca  
 
 ## Instalasi dan Konfigurasi
-1. Clone Repository ini: 
-<br>
-``` git clone https://github.com/alvaroocls/tugas3-IAE.git ``` <br> <br> ```cd weather-app```
+1. Clone Repository ini<br>
+`git clone https://github.com/alvaroocls/tugas3-IAE.git`<br>
+``cd weather-app``
 
-2. Install Dependensi <br>
+3. Install Dependensi <br>
 ```npm install```
 
-3. Jalankan aplikasi <br>
+4. Jalankan aplikasi <br>
 ```npm start```
 
-4. Buka browser dan akses <br>
+5. Buka browser dan akses <br>
 `http://localhost:3000`
 
 
