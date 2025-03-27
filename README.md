@@ -10,7 +10,7 @@ Aplikasi cuaca sederhana yang dibuat menggunakan **Express.js**, dan **OpenWeath
 ## Instalasi dan Konfigurasi
 1. Clone Repository ini<br>
 `git clone https://github.com/alvaroocls/tugas3-IAE.git`<br>
-``cd weather-app``
+``cd tugas3-IAE``
 
 3. Install Dependensi <br>
 ```npm install```
